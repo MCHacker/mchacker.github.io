@@ -1,1 +1,3 @@
-# mchacker.github.io
+# 关于我
+
+MCHacker不是你们眼中的MCHacker-后IT时代。MCHacker是一种非常特殊的、可以从事程序开发、维护的动物。一般分为MCHacker设计猿和MCHacker编码猿，但两者的界限并不非常清楚，都可以进行开发、维护工作，特别是在中国，而且最重要的一点，二者都是一种非常悲剧(加班)的存在。
